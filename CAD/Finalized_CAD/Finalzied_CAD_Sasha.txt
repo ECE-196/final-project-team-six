@@ -1,0 +1,14 @@
+https://cad.onshape.com/documents/3c8a55a3230333a664d80cdf/w/e5b4647459c091ba37fdd97a/e/5ee5ae39db098a3ce2b8a7b8?renderMode=0&uiState=6753d433ea294f114f07ebe5
+- this is for the multiple iterations of the arm, including the original versions which included scaled down versions of the arm visible on the website
+
+https://cad.onshape.com/documents/33b53bd9ca3e737e40f29df9/w/d82369906dfd3b79e8f9fb7b/e/75444efbee3835bf25002c9e?renderMode=0&uiState=6753d493a5b55752f87f0c2a
+-this is the link to the base design, the base involved alot of working with specing correct gear sizes and trying to make everything fit neatly adding as little weight as possible, while also making it possible for all the wires to be stored underneath the base
+
+https://cad.onshape.com/documents/d03fdc8670eacdb0a48bf6c3/w/4d45ccb8d2572fa5b130673b/e/a6efea113c7771a828aeb536?renderMode=0&uiState=6753d4e42a883c779044dabb
+https://cad.onshape.com/documents/a2e61d799243d730ba215fb2/w/65fd5af6eab3572eee3dd367/e/4668436027089974faccd38e?renderMode=0&uiState=6753d51ff0dcbb6ea513c3ee
+https://cad.onshape.com/documents/c76a199fc4e339e94aeb7817/w/3850c2d3c096beae5c51d33d/e/636d21448d9b7f1b49b30d81 - arm part 2
+https://cad.onshape.com/documents/c76a199fc4e339e94aeb7817/w/3850c2d3c096beae5c51d33d/e/636d21448d9b7f1b49b30d81 - small arm which was printed a few times to make sure everything works.
+
+
+
+-more miscellaneous that was used to make the arm fit and relieve weight and torque off of the axles.
